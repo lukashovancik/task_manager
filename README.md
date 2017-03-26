@@ -2,7 +2,7 @@
 
 PHP ALIKÁCIA VYTVORENÁ V RÁMCI DIPLOMOVEJ PRÁCE NA KATOLÍCKEJ UNIVERZITE V RUŽOMBERKU. 
 
-###PHP
+### PHP
 
 Ako php server odporúčame použiť Valet. Jeho obmedzením je,  že zatiaľ je dostupný iba pre používateľov platformy OS X. 
 
@@ -13,7 +13,7 @@ Na iných operačných systémoch je možné si stiahnuť Apache v prostredí XA
 https://www.apachefriends.org/index.html
 
 
-###Composer
+### Composer
 
 Je potrebné nainštalovať baličkový manažment systém composer . 
 
