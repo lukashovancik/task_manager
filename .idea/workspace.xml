@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ae3b01-ad5e-4c5b-87fc-7ec959cd1cc9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database_script.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="diplomovka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,15 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="database_script.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database_script.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/app/services/Validators/Validator.php" />
         <option value="$PROJECT_DIR$/app/views/content/add-task.view.php" />
         <option value="$PROJECT_DIR$/app/views/content/history.view.php" />
@@ -102,6 +97,7 @@
         <option value="$PROJECT_DIR$/app/services/Factories/ModelFactory.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/database_script.sql" />
       </list>
     </option>
   </component>
@@ -260,7 +256,7 @@
       <workItem from="1490101026742" duration="13428000" />
       <workItem from="1490541649133" duration="472000" />
       <workItem from="1490542221080" duration="6530000" />
-      <workItem from="1490549615301" duration="345000" />
+      <workItem from="1490549615301" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="Update README">
       <created>1490549951243</created>
@@ -276,11 +272,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490550039615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update README">
+      <created>1490550078803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490550078803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50658000" />
+    <option name="totallyTimeSpent" value="50807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -327,25 +330,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/core/App.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <marker date="1486845149000" expanded="true" signature="103:157" ph="{...}" />
-            <marker date="1486845149000" expanded="true" signature="195:384" ph="{...}" />
-            <marker date="1486845149000" expanded="true" signature="259:337" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/Validators/Validator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/services/State/TaskAbstractState.php" />
     <entry file="file://$PROJECT_DIR$/app/services/State/OpenTask.php" />
     <entry file="file://$PROJECT_DIR$/public/index.php">
@@ -843,11 +827,27 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <first_editor relative-caret-position="285">
+            <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database_script.sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database_script.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
