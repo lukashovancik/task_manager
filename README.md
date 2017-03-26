@@ -22,4 +22,8 @@ Officiálna stránka pre inštaláciu je https://getcomposer.org/.
 
 ### Databáza
 
+Inštalácia databázy pomocu homebrew na mac os x.  
+
+--brew install mariadb
+
 Potrebné inštalačné skripty k databáze sa nachádzajú v súbore database_script.sql
