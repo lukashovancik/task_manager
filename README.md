@@ -18,3 +18,8 @@ https://www.apachefriends.org/index.html
 Je potrebné nainštalovať baličkový manažment systém composer . 
 
 Officiálna stránka pre inštaláciu je https://getcomposer.org/.
+
+
+### Databáza
+
+Potrebné inštalačné skripty k databáze sa nachádzajú v súbore database_script.sql
